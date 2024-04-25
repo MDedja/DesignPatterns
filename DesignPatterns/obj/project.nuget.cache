@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OxV2TlI3hDglhPgTtA1isnFC+giu6qK3zZEDSsgvER55gqL1XxLY5CAZiDZqU5BGCFGZZ3ioLNAulw0OzB9mWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MilanDedjanski\\RiderProjects\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MilanDedjanski\\.nuget\\packages\\morelinq\\4.1.0\\morelinq.4.1.0.nupkg.sha512",
+    "C:\\Users\\MilanDedjanski\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
